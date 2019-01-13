@@ -1,0 +1,18 @@
+package com.ralph.pmgr;
+
+public enum ConfluencePermissionKeys {
+    VIEWSPACE,
+    EDITSPACE,
+    EXPORTPAGE,
+    SETPAGEPERMISSIONS,
+    REMOVEPAGE,
+    EDITBLOG,
+    REMOVEBLOG,
+    COMMENT,
+    REMOVECOMMENT,
+    CREATEATTACHMENT,
+    REMOVEATTACHMENT,
+    REMOVEMAIL,
+    EXPORTSPACE,
+    SETSPACEPERMISSIONS
+}

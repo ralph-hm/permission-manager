@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atlassian/atlassian.iml" filepath="$PROJECT_DIR$/atlassian/atlassian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confluence/confluence.iml" filepath="$PROJECT_DIR$/confluence/confluence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission-manager.iml" filepath="$PROJECT_DIR$/permission-manager.iml" />
+    </modules>
+  </component>
+</project>
